@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "baiduyun": {
-      "api":       "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云资源"
     }
   }
